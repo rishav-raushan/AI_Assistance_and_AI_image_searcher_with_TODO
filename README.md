@@ -3,20 +3,37 @@
 ## Overview
 This is a feature-rich React application that integrates a task management system, an AI assistant (using the Gemini AI API), and an image search feature (using the Unsplash API). The application is fully responsive and includes user authentication to protect the To-Do list.
 
+#Screenshot :
+  
+   ![Starting Page](./starting.png)
+
 ## Features
 
 ### Task Management
+  #Screenshot :
+  
+   ![Task Management](./todo(2).png)
+
 - Add, edit, delete tasks.
 - Prioritize tasks (High, Medium, Low).
 - Automatic sorting of tasks by priority.
 - Protected behind user authentication.
 
 ### AI Assistant
+ #Screenshot :
+  
+   ![AI Assistant](./assistant.png)
+
+
 - Chat with an AI assistant powered by Gemini AI.
 - Enhanced formatting of responses for better readability (e.g., points displayed in a list).
 - Real-time interaction with a clean and intuitive interface.
 
 ### Image Search
+  #Screenshot :
+  
+   ![Image Search](./image.png)
+
 - Search for images using the Unsplash API.
 - Display images in a responsive, grid-based gallery.
 - Hover effects and image attribution.
