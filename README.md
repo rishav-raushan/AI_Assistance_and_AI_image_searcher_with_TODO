@@ -12,7 +12,7 @@ This is a feature-rich React application that integrates a task management syste
 ### Task Management
   #Screenshot :
   
-   ![Task Management](./todo(2).png)
+   ![Task Management](./todo.png)
 
 - Add, edit, delete tasks.
 - Prioritize tasks (High, Medium, Low).
@@ -22,7 +22,7 @@ This is a feature-rich React application that integrates a task management syste
 ### AI Assistant
  #Screenshot :
   
-   ![AI Assistant](./assistant.png)
+   ![AI Assistant](./assisstant.png)
 
 
 - Chat with an AI assistant powered by Gemini AI.
