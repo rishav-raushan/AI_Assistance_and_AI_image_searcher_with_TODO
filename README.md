@@ -3,16 +3,16 @@
 ## Overview
 This is a feature-rich React application that integrates a task management system, an AI assistant (using the Gemini AI API), and an image search feature (using the Unsplash API). The application is fully responsive and includes user authentication to protect the To-Do list.
 
-#Screenshot :
+## Screenshot :
   
-   ![Starting Page](./starting.png)
+   <img src="./starting.png" alt="Laptop View" width="600" />
 
 ## Features
 
 ### Task Management
-  #Screenshot :
+  ## Screenshot :
   
-   ![Task Management](./todo.png)
+   <img src="./todo.png" alt="Task Management" width="600" />
 
 - Add, edit, delete tasks.
 - Prioritize tasks (High, Medium, Low).
@@ -20,9 +20,9 @@ This is a feature-rich React application that integrates a task management syste
 - Protected behind user authentication.
 
 ### AI Assistant
- #Screenshot :
+ ## Screenshot :
   
-   ![AI Assistant](./assisstant.png)
+   <img src="./assisstant.png" alt="AI Assistant" width="600" />
 
 
 - Chat with an AI assistant powered by Gemini AI.
@@ -32,7 +32,7 @@ This is a feature-rich React application that integrates a task management syste
 ### Image Search
   #Screenshot :
   
-   ![Image Search](./image.png)
+   <img src="./image.png" alt="Image Search" width="600" />
 
 - Search for images using the Unsplash API.
 - Display images in a responsive, grid-based gallery.
@@ -149,9 +149,17 @@ The application is deployed on Netlify:
 
   ## Laptop View
 
-  ![Laptop View](./starting.png)
-  ![Tablet View](./tabletview.jpeg)
-  ![Mobile View](./mobile_view.jpeg)
+  <img src="./starting.png" alt="Laptop View" width="400" />
+
+  ## Tablet View
+  
+  <img src="./tabletview.jpeg" alt="Tablet View" width="400" />
+
+  ## Mobile View
+  
+  <img src="./mobile_view.jpeg" alt="Mobile View" width="200" />
+
+  
 
 ## License
 This project is open-source and available under the MIT License.
