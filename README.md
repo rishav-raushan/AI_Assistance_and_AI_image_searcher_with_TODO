@@ -145,6 +145,14 @@ App
 The application is deployed on Netlify:
 - **URL:** [Deployed Application](https://leafy-liger-0e00c3.netlify.app/)
 
+## Responsiveness Screenshot
+
+  ## Laptop View
+
+  ![Laptop View](./starting.png)
+  ![Tablet View](./tabletview.jpeg)
+  ![Mobile View](./mobile_view.jpeg)
+
 ## License
 This project is open-source and available under the MIT License.
 
